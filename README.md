@@ -22,6 +22,7 @@ The Parent-Teacher Communication App is a web application designed to facilitate
 - **Sqlite**
 
 ## Project Structure
+
 /the-project-directory
 |-- /backend # Django backend
 |-- /frontend # React frontend
